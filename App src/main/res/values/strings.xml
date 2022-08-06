@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find My Friends</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Who do you want to find?</string>
+    <string name="label_play_services">Google Play Services:</string>
+    <string name="label_location_services">Location Services:</string>
+    <string name="label_available">Services Available</string>
+    <string name="label_unavailable">Services Unavailable</string>
+    <string name="button_map">Show Current Location on Map</string>
+    <string name="request_permission_title">Permission Request</string>
+    <string name="request_permission_text">Need access to GPS</string>
+    <string name="request_permission_positive">Allow</string>
+</resources>
